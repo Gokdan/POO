@@ -1,5 +1,4 @@
 #Declaracion de variables
-Porcentaje_retencion = 0.125
 Salario_bruto = 0
 Retencion_fuente = 0
 Salario_neto = 0
